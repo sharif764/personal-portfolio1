@@ -3,9 +3,16 @@
 }
 .width {
   width: 50%;
+  padding-left: 50px;
+  padding-top: 50px;
+  margin-right: 50px;
 }
 
 .pic {
   height: 70%;
   width: 50%;
+  border-radius: 19px;
+}
+.orange {
+  color: orange;
 }
