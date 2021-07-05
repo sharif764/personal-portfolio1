@@ -1,3 +1,11 @@
 .sec {
-  width: ;
+  display: flex;
+}
+.width {
+  width: 50%;
+}
+
+.pic {
+  height: 70%;
+  width: 50%;
 }
